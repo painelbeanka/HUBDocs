@@ -1,3 +1,6 @@
 {
-  "titulo": "Bem-vindo(a)"
+  "titulo": "Bem-vindo ao HUB Transparência",
+  "aviso": "Manutenção às 22h",
+  "versaoMinima": "1.2.0",
+  "corTema": "#0A3D91"
 }
